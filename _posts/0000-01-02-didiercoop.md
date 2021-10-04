@@ -6,7 +6,7 @@
 8.	
 9.	---
 10.	(Where is line 5? 5th or labelled "5"? The 5th is the layout: line, I guess I'd better leave it alone.
-11.	Hello world!
+11.	Hello world! (My Salamander thinks this is [was] line 5)
 12.	/-|
 13.	
 Use the left arrow to go back!
